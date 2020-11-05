@@ -1,0 +1,36 @@
+body {
+	background-color: #000000; 
+}
+
+header {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	background-color: yellow 
+}
+
+.etiqueta{
+	font-size: 16px;
+	text-align: center;
+	color: yellow;
+	font-family: Tahoma;
+	width: 33.3%;
+	float: left;
+
+}
+
+footer{
+	color: white;
+	font-size: 25px;
+	text-align: right;
+}
+
+a {
+	font-size: 24px;
+	background-color: black;
+	color: white;
+}
+
+img {
+	width: 99.9%
+}
